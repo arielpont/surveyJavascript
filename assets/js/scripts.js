@@ -1,5 +1,6 @@
 function check(){
 
+    //Mariano: inserté esta línea como comentario//
     //Limpiamos consola cada vez que ejecutamos la función.
     //Esto es simplemente para ver más claro en el navegador el resultado.
     console.clear();
